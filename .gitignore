@@ -10,8 +10,9 @@ venv/
 .env/
 .venv/
 
-# VS Code
 .vscode/
 
 .DS_Store
 Thumbs.db
+
+data/
